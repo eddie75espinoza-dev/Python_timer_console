@@ -15,5 +15,4 @@ Hour: 01, Minute: 01, Minute: 03
 00:01    stop
 (Notificacion)
 
-Dev: Eddie75Espinoza
 date: 01/03/2022
